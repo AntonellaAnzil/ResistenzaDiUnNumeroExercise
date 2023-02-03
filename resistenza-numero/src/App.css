@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  margin-top: 6rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.container {
+  display: flex;
+  width: 75%;
+  margin: 0 auto;
+}
+
+.first-ex-div {
+  float: left;
+  border: 5px solid darkblue;
+  width: 50%;
+  text-align: center;
+}
+
+.second-ex-div {
+  float: left;
+  border: 5px solid darkblue;
+  width: 50%;
+  text-align: center;
+}
+
+.space-btw {
+  float: left;
+  width: 3rem;
+}
+
+.main-title {
+  font-size: 4rem;
+}
+
+.result {
+  color: darkblue;
+  font-weight: bolder;
+}
